@@ -6,6 +6,7 @@ print(st)
 
 #to remove duplicate values from list
 #change list into set
+#set will not display dulpicate values
 
 list=[1,2,3,3,4,5,5]
 st=set(list)
